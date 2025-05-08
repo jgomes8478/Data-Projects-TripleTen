@@ -66,4 +66,4 @@ This project consists of multiple SQL queries that perform exploratory data anal
 
 1. Print the company_name field. Find the number of taxi rides for each taxi company for November 15-16, 2017, name the resulting field trips_amount and print it, too. Sort the results by the trips_amount field in descending order.
 
-!(SQL_1.png)
+![Query 1](SQL_1.png)

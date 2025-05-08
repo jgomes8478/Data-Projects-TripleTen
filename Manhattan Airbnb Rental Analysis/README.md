@@ -35,14 +35,43 @@ The analysis revealed that the Lower East Side, Hell’s Kitchen, and Harlem had
 * Consider studio apartments in Midtown, where smaller units still perform well
 * Target listings with strong revenue potential for long-term returns
 
+### Spreadsheet Summary
 
+![Spreadsheet_Summary](1_Spreadsheet_Summary.png)
 
-## Reports
+### Spreadsheet Recommendations
 
-### Top 10 Neighborhoods by Review
+![2_Spreadsheet_Recommendations](2_Spreadsheet_Recommendations.png)
 
-![Top 10 Neighborhoods](Screenshot_1.png)
+### Change Log
 
-### Top 10 Neighborhoods by Bedroom Size
+![3_Change_Log](3_Change_Log.png)
 
-![Top 10 Neighborhoods by Bedroom Size Review](Screenshot_2.png)
+### Data Dictionary for Listings
+
+![4_Data_Dictionary_for_Listings](4_Data_Dictionary_for_Listings.png)
+
+### Cleaned Data
+
+![5_Cleaned_Data](5_Cleaned_Data.png)
+
+### Data Dictionary for Listings
+
+![5_Cleaned_Data](5_Cleaned_Data.png)
+
+### Calendar
+
+![6_Calendar](6_Calendar.png)
+
+### Top 10 Neighborhoods Based on Reviews
+
+![7_Top_10_Neighborhoods_Based_on_Reviews](7_Top_10_Neighborhoods_Based_on_Reviews.png)
+
+### Top 10 Neightborhoods Based on Bedroom Reviews
+
+![8_Top_10_Neightborhoods_Based_on_Bedroom_Reviews](8_Top_10_Neightborhoods_Based_on_Bedroom_Reviews.png)
+
+### Sum of Revenue Earned
+
+![9_Sum_of_Revenue_Earned](9_Sum_of_Revenue_Earned.png)
+

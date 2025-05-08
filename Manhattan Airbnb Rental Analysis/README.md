@@ -16,3 +16,10 @@ Based on this, the Lower East Side, Hell’s Kitchen, and Harlem were the most p
 
 ## Reports
 
+### Top 10 Neighborhoods by Review
+
+![Top 10 Neighborhoods](Screenshot_1.png)
+
+### Top 10 Neighborhoods by Bedroom Size
+
+![Top 10 Neighborhoods by Bedroom Size Review](Screenshot_2.png)

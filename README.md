@@ -8,6 +8,8 @@ Analyzed Airbnb data to identify profitable neighborhoods and property types in 
 
 **Achievement 2:** Used pivot tables and filtering tools to uncover trends in rental performance identified high-demand property types and top-earning neighborhoods to support investment decisions.
 
+➡️ [Project Details](Manhattan%20Airbnb%20Rental%20Analysis)
+
 ## Zuber Ride Analysis | 02/25 | SQL
 
 Explored rider behavior and external factors affecting trip performance for a ride sharing startup.

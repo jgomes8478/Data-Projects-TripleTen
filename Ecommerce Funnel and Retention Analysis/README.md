@@ -4,6 +4,21 @@ In this project, I analyzed user activity logs to transform raw transactional da
 
 📂 [Google Sheets Project Link](https://docs.google.com/spreadsheets/d/1ZWp1uScmpbeSA6wZVo_DqG_BTTuWCyEbgzxVEcKqFI0/edit?usp=sharing)
 
+## Table of Contents
+
+1. [Ecommerce Funnel and Retention Analysis](#ecommerce-funnel-and-retention-analysis)  
+2. [📂 Google Sheets Project Link](#google-sheets-project-link)  
+3. [Data](#data)  
+4. [Description](#description)  
+5. [Assumptions](#assumptions)  
+6. [Process](#process)  
+7. [Findings / Executive Summary](#findings--executive-summary)  
+   - [Conversion Funnel](#conversion-funnel)  
+   - [Retention Rates](#retention-rates)  
+   - [Purchase Activity](#purchase-activity)  
+   - [First Purchase](#first-purchase)  
+   - [Cohort Analysis](#cohort-analysis)  
+   - [Raw User Activity](#raw-user-activity)
 
 ### Data
 

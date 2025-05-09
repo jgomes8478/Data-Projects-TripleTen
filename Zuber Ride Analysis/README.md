@@ -2,6 +2,22 @@
 
 The purpose of this project was to use SQL to explore ride data and identify patterns in taxi company activity, customer preferences, and the effect of weather on ride durations in Chicago.
 
+## Table of Contents
+
+- [Zuber Ride Analysis](#zuber-ride-analysis)
+  - [Data](#data)
+  - [Description](#description)
+  - [Assumptions](#assumptions)
+  - [Process](#process)
+  - [Findings](#findings)
+  - [SQL Queries](#sql-queries)
+    - [Query 1: Rides per Taxi Company (Nov 15–16)](#query-1-rides-per-taxi-company-nov-15–16)
+    - [Query 2: Rides for Companies with "Yellow" or "Blue" (Nov 1–7)](#query-2-rides-for-companies-with-yellow-or-blue-nov-1–7)
+    - [Query 3: Categorized Ride Counts (Nov 1–7)](#query-3-categorized-ride-counts-nov-1–7)
+    - [Query 4: Retrieve Loop and O’Hare IDs](#query-4-retrieve-loop-and-ohare-ids)
+    - [Query 5: Classify Weather Conditions](#query-5-classify-weather-conditions)
+    - [Query 6: Ride Durations with Weather (Loop → O’Hare)](#query-6-ride-durations-with-weather-loop--ohare)
+
 ## Data
 
 * 'neighborhoods' table: data on city neighborhoods

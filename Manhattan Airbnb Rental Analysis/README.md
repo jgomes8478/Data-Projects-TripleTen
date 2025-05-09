@@ -2,6 +2,25 @@
 
 This project was created to help a client analyze the vacation rental market in Manhattan. The client wanted guidance on what types of properties to invest in for short-term Airbnb rentals. My role was to clean the data, perform analysis, and identify trends based on rental activity and revenue potential.
 
+## Table of Contents
+
+- [Manhattan Airbnb Rental Analysis](#manhattan-airbnb-rental-analysis)
+  - [Data](#data)
+  - [Description](#description)
+  - [Assumptions](#assumptions)
+  - [Findings / Executive Summary](#findings--executive-summary)
+  - [Recommendations](#recommendations)
+    - [Spreadsheet Summary](#spreadsheet-summary)
+    - [Spreadsheet Recommendations](#spreadsheet-recommendations)
+    - [Change Log](#change-log)
+    - [Data Dictionary for Listings](#data-dictionary-for-listings)
+    - [Cleaned Data](#cleaned-data)
+    - [Calendar](#calendar)
+    - [Top 10 Neighborhoods Based on Reviews](#top-10-neighborhoods-based-on-reviews)
+    - [Top 10 Neighborhoods Based on Bedroom Reviews](#top-10-neighborhoods-based-on-bedroom-reviews)
+    - [Sum of Revenue Earned](#sum-of-revenue-earned)
+
+
 ## Data
 
 The data came from a Google spreadsheet provided by TripleTen. It included several components: a **nyc_airbnb_data.csv** file where each row represents an Airbnb listing from September 2022, a **data_dictionary** explaining the column names and data types, a **listings** tab containing detailed information about each property, and a **calendar** tab showing upcoming availability and date-specific pricing for each listing.

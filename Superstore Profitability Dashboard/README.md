@@ -41,20 +41,20 @@ This Tableau workbook includes a series of dashboards and visualizations aimed a
 
 ![Profits and Losses](1_Profits_and_Losses.png)
 
-#### Part 2: Products to Stop Selling
+### Part 2: Products to Stop Selling
 
 * Worst Performing Products: GBC DocuBind P400 Electric Binding System (−$20,388), Cubify CubeX 3D Printer Double Head (−$8,880), and several printers and conference tables had high negative profits.See: "Products to Stop Selling"
 
 ![Products to Stop Selling](2_Products_to_Stop_Selling.png)  
   
-#### Part 3: Subcategory Recommendations
+### Part 3: Subcategory Recommendations
 
 * Subcategories to Focus On: Copiers ($76,304), Phones ($56,053), and Accessories ($49,993).
 * Subcategories to Avoid: Tables (−$23,067), Bookcases (−$3,655), and Supplies (−$923).See: "Top 3 and Bottom 3 Subcategories: Where to Invest and What to Drop"  
       
 ![Top 3 and Bottom 3 Subcategories Where to Invest and What to Drop](3_Top_3_and_Bottom_3_Subcategories_Where_to_Invest_and_What_to_Drop.png)
 
-#### Part 4: Advertising Strategy
+### Part 4: Advertising Strategy
 
 * Best State-Month Combos:
     * Vermont in November (Avg. profit: $596)
@@ -68,14 +68,14 @@ This Tableau workbook includes a series of dashboards and visualizations aimed a
 
 ![Best States and Months for Advertising](4_Best_States_and_Months_for_Advertising.png)
 
-#### Part 5: Return Analysis
+### Part 5: Return Analysis
 
 * High Return Rate Products: Acco Glide Clips, Avery 500, Bush Saratoga Bookcase, Canon ImageCLASS Printer, and Zebra GK420t all have 100% return rates.
 * High Return Rate Customers: HH-15010, RM-19750, SG-20080, and others show return rates exceeding 90%.See: "Products with Highest Return" and "Customers with Highest Return"
 
 ![Return Analysis](5_Return_Analysis.png)  
 
-#### Part 6: Profit vs. Return Rate
+### Part 6: Profit vs. Return Rate
 
 * States like Oregon, Colorado, and Illinois had high return rates paired with low average profits, making them less desirable for further investment.  
       

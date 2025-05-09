@@ -4,6 +4,22 @@ This project investigates restaurant performance on Zomato using Tableau. The go
 
 Tableau Dashboard Link: [https://public.tableau.com/app/profile/juthika.gomes/viz/JAG_zomato_new/FinalDashboard](https://public.tableau.com/app/profile/juthika.gomes/viz/JAG_zomato_new/FinalDashboard)
 
+## Table of Contents
+
+- [Zomato: Restaurant and Order Analysis](#zomato-restaurant-and-order-analysis)
+  - [Data](#data)
+  - [Description](#description)
+  - [Process](#process)
+  - [Key Findings](#key-findings)
+    - [Top Revenue Restaurants](#top-revenue-restaurants)
+    - [Top Order Volume](#top-order-volume)
+    - [Revenue vs Rating](#revenue-vs-rating)
+    - [Cuisine Costs](#cuisine-costs)
+    - [City-Level Sales](#city-level-sales)
+    - [Monthly and Seasonal Trends](#monthly-and-seasonal-trends)
+  - [Recommendations](#recommendations)
+  - [Conclusion](#conclusion)
+
 ## Data
 
 The dataset included five tables:

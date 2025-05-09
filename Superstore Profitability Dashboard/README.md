@@ -4,6 +4,21 @@ The goal of this project was to review Superstore's operations, identify key pro
 
 Tableau Link: [https://public.tableau.com/app/profile/juthika.gomes/viz/StorytellingwithDataProject_17434651142660/FinalDashboardReturnAnalysis](https://public.tableau.com/app/profile/juthika.gomes/viz/StorytellingwithDataProject_17434651142660/FinalDashboardReturnAnalysis)
 
+## Table of Contents
+
+- [Superstore Profitability Dashboard](#superstore-profitability-dashboard)
+  - [Data](#data)
+  - [Description](#description)
+  - [Assumptions](#assumptions)
+  - [Process](#process)
+  - [Findings / Visualization Write-ups](#findings--visualization-write-ups)
+    - [Part 1: Profits & Losses](#part-1-profits--losses)
+    - [Part 2: Products to Stop Selling](#part-2-products-to-stop-selling)
+    - [Part 3: Subcategory Recommendations](#part-3-subcategory-recommendations)
+    - [Part 4: Advertising Strategy](#part-4-advertising-strategy)
+    - [Part 5: Return Analysis](#part-5-return-analysis)
+    - [Part 6: Profit vs. Return Rate](#part-6-profit-vs-return-rate)
+
 ## Data
 
 * Superstore.xls: Primary dataset with order and return information for products sold across the U.S.  

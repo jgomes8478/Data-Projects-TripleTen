@@ -4,6 +4,23 @@ This project aimed to uncover the causes behind the high number of returned orde
 
 Tableau Link:[https://public.tableau.com/app/profile/juthika.gomes/viz/Sprint_5_Project_17439050366880/FinalDashboardReturnAnalysis](https://public.tableau.com/app/profile/juthika.gomes/viz/Sprint_5_Project_17439050366880/FinalDashboardReturnAnalysis)
 
+## Table of Contents
+
+- [Superstore Return Analysis](#superstore-return-analysis)
+  - [Data](#data)
+  - [Description](#description)
+  - [Assumptions](#assumptions)
+  - [Process](#process)
+  - [Findings](#findings)
+    - [1. Scatterplot: Total Sales vs. Total Returns by Subcategory](#1-scatterplot-total-sales-vs-total-returns-by-subcategory)
+    - [2. Bar Chart: Return Rate by Product Category](#2-bar-chart-return-rate-by-product-category)
+    - [3. Bar Chart: Return Rate by Customer](#3-bar-chart-return-rate-by-customer)
+    - [4. Map: Return Rate by State](#4-map-return-rate-by-state)
+    - [5. Monthly Return Rate Trend](#5-monthly-return-rate-trend)
+    - [6. Composite Chart: Sales and Return Rate Over Time](#6-composite-chart-sales-and-return-rate-over-time)
+    - [Dashboard Overview](#dashboard-overview)
+  - [Recommended Actions](#recommended-actions)
+
 ## Data
 
 * Superstore.xls: Primary dataset for sales and return records

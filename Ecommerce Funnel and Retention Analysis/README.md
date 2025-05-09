@@ -2,7 +2,7 @@
 
 In this project, I analyzed user activity logs to transform raw transactional data into meaningful business metrics. The focus was on building a conversion funnel, preparing cohort data, and calculating user retention rates to understand customer behavior and engagement trends.
 
-📂 [Google Sheets Project Link]()
+📂 [Google Sheets Project Link](https://docs.google.com/spreadsheets/d/1ZWp1uScmpbeSA6wZVo_DqG_BTTuWCyEbgzxVEcKqFI0/edit?usp=sharing)
 
 
 ### Data

@@ -2,6 +2,17 @@
 
 This Power BI project reviewed the app marketplace on the Shopify platform using publicly available data. The objective was to uncover patterns and key factors that contribute to app success, based on app metadata, categories, user reviews, and developer behavior.
 
+## Table of Contents
+
+- [Shopify App Analysis](#shopify-app-analysis)
+  - [Data](#data)
+  - [Description](#description)
+  - [Assumptions](#assumptions)
+  - [Findings](#findings)
+    - [Part 1: App Landscape](#part-1-app-landscape)
+    - [Part 2: Review Insights](#part-2-review-insights)
+    - [Part 3: Developer Performance](#part-3-developer-performance)
+
 ## Data
 
 **shopify.xlsx** (Excel workbook) included the following tables:

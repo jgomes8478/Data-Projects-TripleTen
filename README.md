@@ -8,7 +8,7 @@ Analyzed Airbnb data to identify profitable neighborhoods and property types in 
 
 **Achievement 2:** Used pivot tables and filtering tools to uncover trends in rental performance identified high-demand property types and top-earning neighborhoods to support investment decisions.
 
-➡️ [Project Details](Manhattan%20Airbnb%20Rental%20Analysis)
+➡️ [Manhattan Airbnb Rental Analysis Details](Manhattan%20Airbnb%20Rental%20Analysis)
 
 ## Zuber Ride Analysis | 02/25 | SQL
 
@@ -18,6 +18,8 @@ Explored rider behavior and external factors affecting trip performance for a ri
 
 **Achievement 2:** Analyzed the effect of weather on weekend ride durations. Found that rainy Saturdays increase travel time. Used time-based joins, subqueries, and window functions to connect trip and weather data.
 
+➡️ [Zuber Ride Analysis Details](Zuber%20Ride%20Analysis)
+
 ## Ecommerce Funnel and Retention Analysis | 03/25 | Google Sheets
 
 Analyzed user activity logs to uncover drop-off points in the customer journey and evaluate retention across cohorts.
@@ -25,6 +27,8 @@ Analyzed user activity logs to uncover drop-off points in the customer journey a
 **Achievement 1:** Built a conversion funnel to measure user drop-offs from views to purchases. This helped identify a major gap between cart additions and completed purchases. Used pivot tables and formulas to calculate funnel conversion rates.
 
 **Achievement 2:** Tracked user retention across purchase cohorts. Found sharp drop in engagement after one month. Used cohort analysis, monthly grouping, and retention rate formulas to deliver clear user retention metrics.
+
+➡️ [Ecommerce Funnel and Retention Analysis Details](Ecommerce%20Funnel%20and%20Retention%20Analysis)
 
 ## Superstore Profitability Dashboard | 03/25 | Tableau Public
 
@@ -34,6 +38,8 @@ Built interactive dashboards to analyze profits, returns, and advertising potent
 
 **Achievement 2:** Identified ad opportunities by state and month using average profit trends. Improved business decisions through clear data stories.
 
+➡️ [Superstore Profitability Dashboard  Details](Superstore%20Profitability%20Dashboard)
+
 ## Superstore Return Analysis | 04/25 | Tableau Public
 
 Designed an interactive dashboard to uncover key drivers behind product returns and guide business decisions.
@@ -41,6 +47,8 @@ Designed an interactive dashboard to uncover key drivers behind product returns 
 **Achievement 1:** Visualized return trends by product, region, customer, and time to identify root causes. Used calculated fields, filters, maps, and composite charts to highlight problem areas.
 
 **Achievement 2:** Built a story-driven dashboard for executives with interactive filters. Helped pinpoint return-heavy categories, top return customers, and seasonal patterns to support action planning.
+
+➡️ [Superstore Return Analysis Details](Superstore%20Return%20Analysis)
 
 ## Shopify App Analysis | 04/25 | Power BI
 
@@ -50,6 +58,8 @@ Built a multi-page Power BI report to explore what drives app success on Shopify
 
 **Achievement 2:** Visualized app trends and developer performance with KPIs, charts, and filters. Improved insights into app quality and responsiveness.
 
+➡️ [Shopify App Analysis Details](Shopify%20App%20Analysis)
+
 ## Zomato Restaurant Performance Analysis | 05/25 | Tableau Public
 
 Analyzed restaurant sales, ratings, and city trends to identify growth opportunities and performance drivers.
@@ -57,3 +67,5 @@ Analyzed restaurant sales, ratings, and city trends to identify growth opportuni
 **Achievement 1:** Built a multi-view dashboard to explore revenue, orders, and cuisine patterns by region and season. Used filters, maps, and calculated fields.
 
 **Achievement 2:** Provided insights on top restaurants, costly cuisines, and seasonal drops. Delivered strategic recommendations to improve ratings, boost low-performing areas, and plan campaigns.
+
+➡️ [Zomato Restaurant Performance Analysis Details](Zomato%20Restaurant%20Performance%20Analysis)

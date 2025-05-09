@@ -54,7 +54,7 @@ This project includes a Tableau Story and an interactive dashboard focused on th
 
 ![Bar Chart: Return Rate by Customer ](3_Bar_Chart_Return_Rate_by_Customer.png)  
 
-### Map: Return Rate by State
+### 4. Map: Return Rate by State
 
 * California, Utah, and Oregon showed the highest return rates
 * Indicates regional logistics, customer behavior, or fulfillment issues
